@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\:sa">
+          <Created>2024-06-05T09:56:13.0326858-06:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>CentroMedico</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>False</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>False</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Clausulas SQL.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Clausulas SQL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EstructurasControl.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>EstructurasControl.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Funciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Funciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FuncionesEscalaresTabla.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FuncionesEscalaresTabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="OperadoresArimeticos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>OperadoresArimeticos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Procesos almacenados Actividad 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Procesos almacenados Actividad 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seguridad.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seguridad.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Select.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TablasTemporaleEnMemoria.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TablasTemporaleEnMemoria.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vistas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Vistas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
